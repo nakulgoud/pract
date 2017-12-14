@@ -3,7 +3,7 @@
 
 ## Objective
 I collected and studied from a lot of links while preparing for interviews this year and realized that unlike coding questions which has plenty of good repos and combined resources, system design remains elusive. People end up reading from scattered resources and might get pigeon-holed into studying one specific domain and get tongue tied when answering such questions. Hence I collected these links and design techniques for interviews, thought I should share with everyone.
-If you are already familiar with the basics (given below) it will take you ~2 months to gain a strong foothold over such questions. If you have much less time, scroll down to the bottom for the tl;dr version.
+If you are already familiar with the basics (given below) it will take you ~2 months to gain a strong foothold over such questions. If you have much less time, scroll down to the bottom for the tldr version.
 
 ## Index
 - [ ] [Where to start from?](#start)
@@ -27,7 +27,7 @@ Feel free to go through other lectures if needed.
 
 These talks should give you decent ammo to start formulating some architectures yourself. 
 
-## <a name 'basics'>Basics</a>
+## <a name='basics'>Basics</a>
 
 But before you begin, here are some topics(in no particular order) which in my opinion you should have a decent idea of before proceeding.
 
@@ -165,6 +165,7 @@ Depending on where you are interviewing, go through the company blog . VERY USEF
  6. load balancing and proxy 
  7. CDN 
  8. Monetization
+ 9. CAP theorem
 
 Best of luck :+1:, feel free to send pull requests to add more content to this git! Will be updating it from time to time.
 
