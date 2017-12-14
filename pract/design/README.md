@@ -128,6 +128,7 @@ Depending on where you are interviewing, go through the company blog . VERY USEF
 * [Facebook Engineering](https://www.facebook.com/Engineering)
 * [Flickr Code](http://code.flickr.net/)
 * [Foursquare Engineering Blog](http://engineering.foursquare.com/)
+* [Gainlo Design Blog](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
 * [Google Research Blog](http://googleresearch.blogspot.com/)
 * [Groupn Engineering Blog](https://engineering.groupon.com/)
 * [High Scalability](http://highscalability.com/)
