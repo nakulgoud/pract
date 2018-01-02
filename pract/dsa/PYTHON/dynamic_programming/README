@@ -1,3 +1,12 @@
+
+General powerful algorithm design technique
+Used/Good/Intended for optimization(minimization) problems
+Exhaustive search in polynomial time
+DP == careful brute force
+DP = subproblems + reuse
+DP = recursion + memoization
+Try all guesses and select the best one
+Note: Subproblem dependencies must be acyclic
 //====================================
 Naive recursive approach:
 Exponential time. Consider case of fibonnaci.  
